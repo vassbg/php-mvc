@@ -1,6 +1,6 @@
 <?php
 /**
- *  MAIN CONFIGURATION
+ *  MAIN CONFIGURATION 
  */
 
 /**
